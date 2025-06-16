@@ -242,7 +242,7 @@
                   invaluables para examinar relaciones entre variables
                   continuas, mientras que los gráficos de calor pueden revelar
                   patrones complejos en matrices de correlación. Los gráficos de
-                  caja (<b>box plots</b>) combinan múltiples aspectos de la
+                  caja (<em>box plots</em>) combinan múltiples aspectos de la
                   distribución de datos, mostrando simultáneamente la mediana,
                   cuartiles y valores atípicos.
                 </p>
@@ -251,7 +251,7 @@
           </div>
         </div>
         <p class="mt-4 mb-0">
-          En el contexto del <b>big data</b> y la inteligencia artificial, las
+          En el contexto del <em>big data</em> y la inteligencia artificial, las
           técnicas de visualización han evolucionado para manejar volúmenes
           masivos de datos. Las visualizaciones interactivas permiten a los
           analistas explorar diferentes niveles de detalle, mientras que las
@@ -270,7 +270,7 @@
             visual, desempeñan un papel destacado en la creación de
             visualizaciones que sean tanto informativas como accesibles
           </p>
-          <p class="mb-0 fw-bold">
+          <p class="mb-0">
             El análisis exploratorio de datos, con sus múltiples facetas y
             técnicas, es una fase crítica en cualquier proyecto de análisis de
             datos o inteligencia artificial. La combinación de estadística
